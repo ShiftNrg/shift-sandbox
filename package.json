@@ -1,0 +1,26 @@
+{
+	"name": "shift-sandbox",
+	"version": "1.1",
+	"description": "Specialized Node.js module for running sandboxed Shift dapps",
+	"main": "index.js",
+	"dependencies": {
+		"async": "*",
+		"execa": "=0.10.0"		
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:ShiftNRG/shift-sandbox.git"
+	},
+	"keywords": [
+		"sandbox",
+		"shift"
+	],
+	"author": "Ralf S <ralfs@shiftnrg.org>, Boris Povod <boris@crypti.me>, Pavel Nekrasov <landgraf.paul@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ShiftNRG/shift-sandbox/issues"
+	},
+	"homepage": "https://github.com/ShiftNRG/shift-sandbox",
+	"devDependencies": {
+	}
+}
